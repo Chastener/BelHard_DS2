@@ -1,0 +1,49 @@
+You: : Hi
+Greatest things: Hi there, what can I do for you?
+You: : What is the fastest animal?
+Greatest things: The peregrine falcon is the fastest flying animal on Earth.
+You: : What animal?
+Greatest things: The peregrine falcon is the fastest flying animal on Earth.
+You: : continent
+Greatest things: I do not understand...
+You: : Continent
+Greatest things: I do not understand...
+You: : What continent
+Greatest things: I do not understand...
+You: : continent?
+Greatest things: I do not understand...
+You: : What continent?
+Greatest things: I do not understand...
+You: : What biggest continent
+Greatest things: I do not understand...
+You: : What biggest continent?
+Greatest things: I do not understand...
+You: : Whit is the largest continent
+Greatest things: The leader in area among continents is Eurasia.
+You: : temperature
+Greatest things: Hi there, how can I help?
+You: : What is the largest temperature
+Greatest things: See you later, thanks for visiting
+You: : ocean
+Greatest things: My pleasure
+You: : What is ocean
+Greatest things: My pleasure
+You: : What is biggest ocean
+Greatest things: I do not understand...
+You: : What ocean
+Greatest things: My pleasure
+You: : What ocean is the biggest
+Greatest things: It is the Pacific Ocean, which covers a large portion of the planet.
+You: : mounatain
+Greatest things: I do not understand...
+You: : What mountain
+Greatest things: Mount Everest is the highest peak on the planet.
+You: : Which river
+Greatest things: The Nile River is the longest in the world.
+You: : What river
+Greatest things: The Nile is the longest river on our planet.
+You: : thanks
+Greatest things: Happy to help!
+You: : bye
+Greatest things: Bye! Come back again soon.
+You: : quit

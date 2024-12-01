@@ -1,0 +1,15 @@
+43 patterns
+9 tags:['animal', 'continent', 'goodbye', 'greeting', 'mountain', 'ocean', 'river', 'temperature', 'thanks']
+80 unique stemmed words:["'s", 'a', 'all', 'among', 'ani', 'anim', 'anyon', 'are', 'area', 'as', 'biggest', 'by', 'bye', 'capabl', 'consid', 'contin', 'cover', 'creatur', 'day', 'distanc', 'earth', 'elev', 'ever', 'faster', 'fastest', 'fli', 'flow', 'furthest', 'good', 'goodby', 'greatest', 'ha', 'height', 'hello', 'help', 'hey', 'hi', 'highest', 'how', 'in', 'is', 'land', 'largest', 'later', 'leader', 'length', 'longest', 'lot', 'maximum', 'measur', 'most', 'mountain', 'occupi', 'ocean', 'of', 'on', 'other', 'our', 'peak', 'planet', 'reach', 'record', 'river', 'see', 'space', 'speed', 'take', 'tallest', 'temperatur', 'than', 'thank', 'that', 'the', 'there', 'up', 'wa', 'what', 'which', 'world', 'you']
+Epoch [100/1000], Loss: 0.0348
+Epoch [200/1000], Loss: 0.0044
+Epoch [300/1000], Loss: 0.0008
+Epoch [400/1000], Loss: 0.0002
+Epoch [500/1000], Loss: 0.0000
+Epoch [600/1000], Loss: 0.0001
+Epoch [700/1000], Loss: 0.0001
+Epoch [800/1000], Loss: 0.0000
+Epoch [900/1000], Loss: 0.0000
+Epoch [1000/1000], Loss: 0.0000
+final loss: 0.0000
+training complete. file saved to data.pth

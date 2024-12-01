@@ -1,0 +1,137 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": [
+        "Hi",
+        "Hey",
+        "How are you",
+        "Is anyone there?",
+        "Hello",
+        "Good day"
+      ],
+      "responses": [
+        "Hey :-)",
+        "Hello, thanks for visiting",
+        "Hi there, what can I do for you?",
+        "Hi there, how can I help?"
+      ]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye"],
+      "responses": [
+        "See you later, thanks for visiting",
+        "Have a nice day",
+        "Bye! Come back again soon."
+      ]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+      "responses": ["Happy to help!", "Any time!", "My pleasure"]
+    },
+    {
+      "tag": "ocean",
+      "patterns": [
+        "What is the largest ocean on Earth?",
+        "Which ocean is the biggest on the planet?",
+        "Which ocean takes up the most space on Earth?",
+        "Which ocean is the leader in area on Earth?",
+        "Which ocean covers the largest area on our planet?"
+      ],
+      "responses": [
+        "The largest ocean on Earth is the Pacific Ocean.",
+        "The biggest ocean on Earth is the Pacific Ocean.",
+        "It is the Pacific Ocean, which covers a large portion of the planet.",
+        "The leader in area among oceans is the Pacific Ocean.",
+        "The Pacific Ocean is the ocean with the largest area."
+      ]
+    },
+    {
+      "tag": "mountain",
+      "patterns": [
+        "What is the highest mountain on Earth?",
+        "Which mountain is the tallest on the planet?",
+        "Which mountain is considered the highest on our planet?",
+        "Which mountain has the greatest height among all mountains on Earth?",
+        "Which peak on Earth has the greatest elevation?"
+      ],
+      "responses": [
+        "The highest mountain on Earth is Mount Everest.",
+        "Mount Everest is the highest peak on the planet.",
+        "Mount Everest is the mountain with the highest elevation on Earth.",
+        "The tallest mountain on Earth is Mount Everest.",
+        "Mount Everest is the tallest mountain on Earth."
+      ]
+    },
+    {
+      "tag": "river",
+      "patterns": [
+        "What is the longest river in the world?",
+        "Which river has the greatest length on the planet?",
+        "Which river is considered the longest on Earth?",
+        "Which river flows the furthest distance on Earth?",
+        "Which river is the longest among all rivers on Earth?"
+      ],
+      "responses": [
+        "The longest river in the world is the Nile.",
+        "The Nile River is the longest in the world.",
+        "The Nile is the longest river on Earth.",
+        "It is the Nile River, which has the greatest length.",
+        "The Nile is the longest river on our planet."
+      ]
+    },
+    {
+      "tag": "continent",
+      "patterns": [
+        "What is the largest continent on Earth?",
+        "Which continent has the greatest area?",
+        "Which continent is the biggest by area on the planet?",
+        "Which continent occupies the most land on Earth?",
+        "Which continent is the leader in area?"
+      ],
+      "responses": [
+        "The largest continent on Earth is Eurasia.",
+        "Eurasia covers the largest area among the continents.",
+        "Eurasia is the continent with the largest area.",
+        "Eurasia occupies the most land on the planet.",
+        "The leader in area among continents is Eurasia."
+      ]
+    },
+    {
+      "tag": "animal",
+      "patterns": [
+        "What is the fastest animal on Earth?",
+        "Which animal reaches the highest speed?",
+        "Which animal is capable of reaching the highest speed?",
+        "Which creature is considered the fastest on Earth?",
+        "Which animal flies faster than any other on Earth?"
+      ],
+      "responses": [
+        "The fastest animal on Earth is the peregrine falcon.",
+        "The peregrine falcon is the fastest animal on the planet.",
+        "The peregrine falcon is the animal that can achieve the highest speed.",
+        "The peregrine falcon is the fastest creature on our planet.",
+        "The peregrine falcon is the fastest flying animal on Earth."
+      ]
+    },
+    {
+      "tag": "temperature",
+      "patterns": [
+        "What is the highest temperature ever recorded on Earth?",
+        "What temperature was recorded as the highest on Earth?",
+        "What temperature on Earth is considered the highest?",
+        "What is the maximum temperature ever measured on the planet?",
+        "What is the highest temperature ever recorded on Earth?"
+      ],
+      "responses": [
+        "The highest temperature ever recorded on Earth was 56.7°C.",
+        "The highest recorded temperature on Earth was 56.7°C.",
+        "The highest temperature ever recorded on our planet was 56.7°C.",
+        "The maximum temperature ever recorded on Earth was 56.7°C.",
+        "The highest temperature ever recorded on Earth was 56.7°C."
+      ]
+    }
+  ]
+}
